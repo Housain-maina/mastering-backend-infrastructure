@@ -4,6 +4,12 @@
 
 The **Mastering Backend Infrastructure** pathway is a comprehensive learning journey designed to cultivate expertise in building robust backend systems. Spanning through databases, system design, web servers, and reverse proxies, this pathway caters to individuals aiming to transition from intermediate to advanced levels in web development and infrastructure design.
 
+## Prerequisites
+
+- **Basic Programming Skills:** Familiarity with Python, web frameworks (e.g., Django, FastAPI), and understanding of basic web development concepts (HTTP, RESTful APIs).
+
+- **Fundamental Database Knowledge:** Basic understanding of SQL and NoSQL databases, including CRUD operations.
+
 ## Pathway Objectives
 
 - **Comprehensive Database Mastery:** Delve into SQL and NoSQL databases, honing skills in data modeling, querying, and management with tools like PostgreSQL, MongoDB, and Redis.
